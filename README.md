@@ -12,7 +12,8 @@ Output: Stress level prediction (Low/Medium/High)
 
 ⚡ 30-Second Setup
 
-git clone [your-repo-link]
+git clone https://github.com/Guru1834/Stress-Level-Predictor-ML-/tree/main
+
 pip install requirements.txt
 
 
